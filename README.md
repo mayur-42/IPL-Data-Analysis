@@ -27,6 +27,6 @@ The dataset includes IPL match statistics spanning multiple seasons. The key col
 - https://github.com/mayur-42/IPL-Data-Analysis/blob/main/IPL%20Dataset.xlsx
 
 ## Screenshot
-
+https://github.com/mayur-42/IPL-Data-Analysis/blob/main/IPL%20Analysis.PNG
 
 
