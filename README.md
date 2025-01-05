@@ -25,8 +25,9 @@ This project involves an analysis of the Indian Premier League (IPL) dataset to 
 The dataset includes IPL match statistics spanning multiple seasons. The key columns include:
 - **Match details**: Season, Team Names, Venue, Winner, etc.
 - **Performance metrics**: Runs, Wickets, Toss Decisions, and Results.
-- https://github.com/mayur-42/IPL-Data-Analysis/blob/main/IPL%20Dataset.xlsx
-
+  
+      (https://github.com/mayur-42/IPL-Data-Analysis/blob/main/IPL%20Dataset.xlsx) &nbsp;
+  
 ## Screenshot
 
 <img src="https://github.com/mayur-42/IPL-Data-Analysis/blob/main/IPL%20Analysis.PNG" alt="myql-logo" width="1000" height="500"/>
