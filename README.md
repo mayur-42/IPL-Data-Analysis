@@ -26,7 +26,7 @@ The dataset includes IPL match statistics spanning multiple seasons. The key col
 - **Match details**: Season, Team Names, Venue, Winner, etc.
 - **Performance metrics**: Runs, Wickets, Toss Decisions, and Results.
   
-      (https://github.com/mayur-42/IPL-Data-Analysis/blob/main/IPL%20Dataset.xlsx) &nbsp;
+      (https://github.com/mayur-42/IPL-Data-Analysis/blob/main/IPL%20Dataset.xlsx) 
   
 ## Screenshot
 
