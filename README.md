@@ -1,4 +1,5 @@
 # IPL Dataset Analysis
+<img src="https://github.com/mayur-42/IPL-Data-Analysis/blob/main/IPL%20Analysis.PNG" alt="myql-logo" width="1000" height="500"/>
 
 ## Overview
 This project involves an analysis of the Indian Premier League (IPL) dataset to uncover various insights and trends from IPL matches. The analysis is presented using Excel dashboards and charts, providing a comprehensive view of key statistics such as matches won by teams, toss decision impacts, title winners, top venues, and top players.
@@ -27,6 +28,8 @@ The dataset includes IPL match statistics spanning multiple seasons. The key col
 - https://github.com/mayur-42/IPL-Data-Analysis/blob/main/IPL%20Dataset.xlsx
 
 ## Screenshot
-https://github.com/mayur-42/IPL-Data-Analysis/blob/main/IPL%20Analysis.PNG
 
+<img src="https://github.com/mayur-42/IPL-Data-Analysis/blob/main/IPL%20Analysis.PNG" alt="myql-logo" width="1000" height="500"/>
+
+          (https://github.com/mayur-42/IPL-Data-Analysis/blob/main/IPL%20Analysis.PNG) &nbsp;
 
