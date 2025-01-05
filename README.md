@@ -1,5 +1,5 @@
 # IPL Dataset Analysis
-<img src="https://github.com/mayur-42/IPL-Data-Analysis/blob/main/IPL%20Analysis.PNG" alt="myql-logo" width="1000" height="500"/>
+<img src="https://w7.pngwing.com/pngs/587/222/png-transparent-2011-indian-premier-league-logo-chennai-super-kings-2018-indian-premier-league-india-blue-text-logo.png" alt="myql-logo" width="200" height="100"/>
 
 ## Overview
 This project involves an analysis of the Indian Premier League (IPL) dataset to uncover various insights and trends from IPL matches. The analysis is presented using Excel dashboards and charts, providing a comprehensive view of key statistics such as matches won by teams, toss decision impacts, title winners, top venues, and top players.
